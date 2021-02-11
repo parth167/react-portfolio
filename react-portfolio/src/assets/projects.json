@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Whatchamacallit",
+    "group": true,
+    "github": "https://github.com/parth167/Project_2.git",
+    "deployed": "https://fullstackbc-project-02.herokuapp.com/",
+    "screenshot": "./homepage.png",
+    "description": " Whatchamacallit is a mobile-responsive forum where users from all around the world can post and comment about books, movies, sports, and/or other. User is able to visit the deployed website and is prompted to sign up or log in. Once logged in, the user is able to submit a post about a sport, movie, book or others.Once the user-generated post/commit is submitted to the database, it is then posted on the home page.",
+    "tech": " HTML,CSS,JavaScript,Materialize,Jaws DB,NODE.JS,React,Heroku,MySQL,Sequelize,Express"
+  },
+  {
+    "id": 2,
+    "title": "Game data Finder",
+    "group": true,
+    "github": "https://github.com/parth167/GameDataFinder.git",
+    "deployed": "https://parth167.github.io/GameDataFinder/",
+    "screenshot": "",
+    "description": " Game data Finder is an application which allows you to find the game data in this user can type the name in search bar and user get the game data like ratings date of launch ,discription of game and so on.",
+    "tech": "Bulma,js,jQuery,Font Awesome,Google Fonts,RAWG API,Giant Bomb API,"
+  },
+  {
+    "id": 3,
+    "title": "user_directory",
+    "group": false,
+    "github": "https://github.com/parth167/user_directory",
+    "deployed": "https://parth167.github.io/user_directory/",
+    "screenshot": "",
+    "description": "user-directory in this app user can able to view their entire employee directory at once so that they have quick access to their information.and also they would be able to sort according to ascending and descending by selecting the arrow next to First Name and Last Name.",
+    "tech": "react.js , material-ui "
+  },
+  {
+    "id": 4,
+    "title": "Burger",
+    "group": false,
+    "github": "https://github.com/parth167/13_burger.git",
+    "deployed": "https://stark-savannah-74996.herokuapp.com/",
+    "screenshot": "",
+    "description": " Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.Whenever a user submits a burger's name,app will display the burger on the left side of the page -- waiting to be devoured.Each burger in the waiting area also has a `Devour it!` button. When the user clicks it,the burger will move to the right side of the page. App will store every burger in a database, whether devoured or not.",
+    "tech": " JavaScript, Node, Heroku, MySQL,jQuery, HTML, CSS"
+  },
+  {
+    "id": 5,
+    "title": "Weather Dashboard",
+    "group": false,
+    "github": "https://github.com/parth167/06_weather_dashboard.git",
+    "deployed": "https://parth167.github.io/06_weather_dashboard/",
+    "screenshot": "",
+    "description": " Weather Dashboard is an application which allows you to see the weather anywhere in the world! This application gives you the current weather, wind speed, humidity and UV index!This application will also provide the user with a 5 day forecast of the weather!",
+    "tech": "JavaScript, Bootstrap, jQuery, Font Awesome, OpenWeather API"
+  },
+  {
+    "id": 6,
+    "title": "Code Quiz",
+    "group": false,
+    "github": "https://github.com/parth167/code_quiz_master.git",
+    "deployed": "https://parth167.github.io/code_quiz_master/",
+    "screenshot": "",
+    "description": "Code Quiz, This quiz asks the user a series of questions about javascript The user is given 75 seconds to start out with, and each wrong answer results in a 15-second penalty. The user's final score is equal to the number of seconds left on the clock after the final question is answered.",
+    "tech": "JavaScript, Bootstrap, jQuery, Font Awesome, Local Storage"
+  }
+]
