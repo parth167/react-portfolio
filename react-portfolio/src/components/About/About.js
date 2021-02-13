@@ -1,6 +1,8 @@
 import React from 'react';
 import pic from './PPATEL.JPG';
-
+import git from './github-128.png';
+import link from './square-linkedin-128.png';
+import email from './email.png';
 function About() {
   return (
     <div className="row content-container">
@@ -28,6 +30,18 @@ function About() {
           web development. Because of that you are looking my portfolio.
           Hopefully after 6 months of writing code intensely, I can take the
           next steps to slowly transition into this field!.
+        </p>
+        <p>
+          My Contect Detail{' '}
+          <a href="mailto:parthpatel167@gmail.com">
+            <img className="icon" src={email} alt="GitHub Profile" />
+          </a>
+          <a href="https://github.com/parth167">
+            <img className="icon" src={git} alt="GitHub Profile" />
+          </a>
+          <a href="https://www.linkedin.com/in/parth-patel-4725381b5/ ">
+            <img className="icon" src={link} alt="LinkedIn Profile" />
+          </a>
         </p>
       </div>
     </div>

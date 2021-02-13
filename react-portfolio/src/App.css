@@ -104,3 +104,10 @@ a:hover {
   border-top: rgb(19, 187, 4) 0.25rem solid;
   color: white;
 }
+.icon {
+  width: 50px;
+  height: 50px;
+  color: none;
+  border-right: none;
+  margin-left: 2rem;
+}
